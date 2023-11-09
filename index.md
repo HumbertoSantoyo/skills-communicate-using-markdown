@@ -7,3 +7,8 @@
 ####### Is the world ending?
 
 ![Image of Planet Earth exploding](https://cdn.mos.cms.futurecdn.net/jTbT67XmEQJQe77rywbAta-650-80.jpg.webp)
+
+``` python
+def func(a,b):
+  return a+b
+```
