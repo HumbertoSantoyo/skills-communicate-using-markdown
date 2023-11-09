@@ -12,3 +12,9 @@
 def func(a,b):
   return a+b
 ```
+## Check-list
+- [x] Use headers
+- [x] Import an image
+- [x] Insert code block
+- [x] Use check-lists
+- [ ] ?
